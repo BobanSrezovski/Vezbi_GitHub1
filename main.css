@@ -1,0 +1,109 @@
+.navbar {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.bg-banner {
+	background-image: url(mountains.jpg);
+	background-size: cover;
+	height: 100vh;
+	position: relative;
+	z-index: -1;
+}
+
+.bg-opticity {
+	position: absolute;
+	top: 0;
+	right: 0;
+	left: 0;
+	bottom: 0;
+	
+	background-color: rgba(50, 146, 156, 0.7);
+}
+
+.bg-black {
+	background-color: black;
+	padding-top: 5vh;
+	padding-bottom: 5vh;
+}
+
+.btnBS {
+	background-color: transparent;
+	border: 1px solid white;
+	border-radius: 5px;
+	color: white;
+	padding: 5px 10px;
+}
+
+.btnBS:hover {
+	cursor: pointer;
+	background-color: white;
+	color: black;
+}
+
+.m-top {
+	margin-top: 26vh;
+}
+
+.title {
+	color: white;
+}
+
+.title h2 {
+	font-size: 5em;
+}
+
+.titleImg {
+	margin-top: 14vh;
+}
+
+.tittleSubscribe {
+	position: absolute;
+	bottom: 0;
+}
+
+.wrap {
+	padding-bottom: 3%;
+	padding-top: 3%;
+}
+
+.borderBS {
+	border: 1px solid blue;
+}
+
+.borderBS  h3 {
+	color: blue;
+}
+
+.bg-blue {
+	background-color: blue;
+	color: white;
+}
+
+.blue-text {
+	color: blue;
+	font-weight: bolder;
+}
+
+.bg-lightgray {
+	background-color: lightgray;
+}
+
+.bordered {
+	border: 1px solid gray;
+	border-radius: 5px;
+}
+
+.card-header a {
+	color: black;
+	font-weight: bold;
+}
+
+.bg-white {
+	background-color: white;
+	padding: 3% 2%;
+}
+
+.m-top-pannel {
+	margin-top: 3%;
+}
